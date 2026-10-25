@@ -1,0 +1,6 @@
+{
+  "name": "Sketch Rush - Multiplayer Drawing & Guessing Game",
+  "description": "An end-to-end full-stack MERN real-time multiplayer drawing and guessing game inspired by skribbl.io.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
